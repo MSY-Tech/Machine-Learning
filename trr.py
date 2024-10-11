@@ -1,2 +1,6 @@
 print("1ST")
 print("3")
+print("3")
+print("3")
+print("3")
+print("3")
