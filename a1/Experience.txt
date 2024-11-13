@@ -1,0 +1,1 @@
+I have gained an understanding of Git and GitHub's basic workflow, including the working directory, staging area, and repository. Although I encountered some challenges with file loading on GitHub, I was able to resolve them after dedicating time to troubleshooting.
